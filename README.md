@@ -1,0 +1,2 @@
+# GetPlaylistCore
+Get playlist core 
